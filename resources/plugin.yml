@@ -1,8 +1,8 @@
 name: AuthorizedOP
-api: ["1.0.0", "1.0.8"]
+api: ["2.0.0"]
 main: com.github.anders233.AuthorizedOP
-version: "1.0.0"
-author: "Anders"
+version: "1.0.1"
+author: "Anders","Reiyans"
 load: POSTWORLD
 commands:
   aop:
